@@ -17,7 +17,7 @@
 ## 如何打开
 1.下载本项目内的"decrypt.c"文件。
 
-2.在下载好的"decrypt.c"文件中，将"password"替换为"0x739230A3"，并编译。
+2.在下载好的"decrypt.c"文件中，将"password"替换为"0x739230A3"**（区分大小写）**，并编译。
 
 3.下载**最新Release**内的"project.bin"文件，放到"decrypt.c"编译的文件夹位置中。
 
